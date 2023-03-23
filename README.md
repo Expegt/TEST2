@@ -70,10 +70,10 @@ You will be employer-competitive if you are able to:
 
 ## Helpful Links
 [Version Control](https://en.wikipedia.org/wiki/Version_control).
-- HTML
-- CSS
-- Pro Git
-- Dev Docs
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML).
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS).
+[Pro Git](https://git-scm.com/book/en/v2).
+[Dev Docs](https://devdocs.io/).
 
 ***©2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved***
 ```
