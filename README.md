@@ -66,16 +66,16 @@ You will be employer-competitive if you are able to:
 - Execute live deployment using GitHub Pages
 ## Homework: Code Refactor
 
-***Take the provided codebase and refactor it to make it accessible. Don't forget the cardinal rule when working with someone elses code: "Always leave the code you are editing a little cleaner than you found it"
+***Take the provided codebase and refactor it to make it accessible. Don't forget the cardinal rule when working with someone elses code: "Always leave the code you are editing a little cleaner than you found it"***
 
-- Helpful Links
-- Version Control
+## Helpful Links
+[Version Control](https://en.wikipedia.org/wiki/Version_control).
 - HTML
 - CSS
 - Pro Git
 - Dev Docs
 
-***©2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved
+***©2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved***
 ```
 
 
