@@ -1,4 +1,4 @@
-# Unit 01: Introduction to Web Development, HTML, CSS, and Git #
+# ~~ Introduction to Web Development, HTML, CSS, and Git ~~ #
 
 ## Congratulations! This is the first step in your journey towards a career in full-stack web development. There are many paths that you can take in this field and this unit is the foundation for all of them. Every full-stack web developer must master HTML and CSS, as well as learn how to program browsers, servers, and databases.
 
